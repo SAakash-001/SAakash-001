@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aakash Singh</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🔭 I’m currently working on **web platform for integrating volunteers and NGOs**
+- 🔭 I’m currently working on **Trajectory Tracking and Planning of an Open Manipulator Robot**
 
 - 📝 I regularly write articles on [https://medium.com/@skymehra008](https://medium.com/@skymehra008)
 
