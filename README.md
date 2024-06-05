@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+1. Embarking on Your Data Science JOURNEY : A Comprehensive Starting Guide [link](https://medium.com/@skymehra008/embarking-on-your-data-science-journey-a-comprehensive-starting-guide-afc7c86a5e18)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
