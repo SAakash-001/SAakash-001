@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Trajectory Tracking and Planning of an Open Manipulator Robot**
 
-- 📝 I regularly write articles on [https://medium.com/@skymehra008](https://medium.com/@skymehra008)
+- 📝 I regularly write articles on [Medium](https://medium.com/@skymehra008)
 
 - 📫 How to reach me **skymehra001@gmail.com**
 
-- 📄 Know about my experiences [https://green-oralle-93.tiiny.site](https://green-oralle-93.tiiny.site)
+- 📄 Know about my experiences [Resume](https://aakashresume.tiiny.site)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
